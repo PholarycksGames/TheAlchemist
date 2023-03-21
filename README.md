@@ -11,4 +11,7 @@ The game features both combat with mythical beasts and other alchemists, and puz
 The game is set in an open world, and you can use different modes of transport to navigate it.🧭<br/>
 There are two main endings to the game, depending on the path you take, making it more interactive with consequences.⚡<br/>
 
+Check out our [wiki](https://github.com/PholarycksGames/TheAlchemist/wiki)for more deailes.<br/>
+<br/>
+<br/>
 Choose your destiny!
